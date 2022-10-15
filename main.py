@@ -4,6 +4,7 @@ import numpy as np
 import pandas as pd
 
 st.title('Streamlit 超入門')
+"gitに挑戦！！2022年10月15日"
 
 st.write('DataFrame')
 
