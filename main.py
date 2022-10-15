@@ -5,6 +5,7 @@ import pandas as pd
 
 st.title('Streamlit 超入門')
 "gitに挑戦！！2022年10月15日"
+"失敗したので再度挑戦！！"
 
 st.write('DataFrame')
 
